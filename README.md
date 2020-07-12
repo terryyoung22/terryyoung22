@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-terryyoung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-young/)](https://www.linkedin.com/in/terry-young/) 
 [![Gmail Badge](https://img.shields.io/badge/-terryyoung1192@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terryyoung1192@gmail.com)](mailto:terryyoung1192@gmail.com)
 
-Terry Here 😃. I am a Devops Engineer.
+Terry Here 🧑🏾‍💻! I am a Devops Engineer 🚀 and Hopeful future python expert 🧑🏾‍💻 Along with other languages!
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
