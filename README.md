@@ -11,7 +11,7 @@ Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - Backend development using **Flask,Django**
 - Making for **Relational Database Management Systems**
-- Full-Stack work
+- Full-Stack Work
 - Desktop application development using **Flutter**(Still learning)
 - Mobile application development using **Flutter and Kotlin**
 - Creating scalable cloud architecture using **AWS Cloud**
