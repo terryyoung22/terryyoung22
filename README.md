@@ -8,19 +8,19 @@
 Terry Here 🧑🏾‍💻! I am a Devops Engineer 🚀 and Hopeful future python expert 🧑🏾‍💻 Along with other languages!
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
-- Making for **Relational Database Management Systems**
-- Full-Stack work
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
+- Languages Used **Python, Javascript, Go, Ruby, Groovy, Bash and More!**
+- Full-Stack Work!
+- Desktop application development using **Java, Tkinter(python), Flask(ran locally), ReactJS/Python/bash cross(ran locally)**
+- Creating scalable cloud architecture using **AWS and Terraform, Also experince with Cloudformation**
+
 ## 🧑🏾‍💻 Accomplishments!
 - First open sourced project (still improving) [jobDetective](https://github.com/terryyoung22/Job-detective)
 - AWS Certified Solutions Architect Assoc.
 - Made personal AWS API site built on flask (Will be open sourced soon)
-## Hello World!! 🤔
+- Learned React and wrote a portfolio in the language!
+- Have a whole CI/CD pipeline going in my Github Actions and locally built Jenkins for creation of docker containers and deployments to Kubernetes stacks!
+
+## Hello World!! 👋🏾
 - 💬 Ask me about anything an everything.
 - 📫 email!: [terryyoung1192@gmail.com](mailto:terryyoung1192@gmail.com)
 - 🎯 Portfolio site: [Portfolio](http://portfolio.typrojects.io/)
