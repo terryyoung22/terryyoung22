@@ -8,12 +8,12 @@
 Terry Here 🧑🏾‍💻! I am a Devops Engineer 🚀 and Hopeful future python expert 🧑🏾‍💻 Along with other languages!
 ## ⚡ Technologies
 Talk to me about
-- Languages Used **Python, Bash, Javascript, Go, Ruby, Groovy and More!**
-- CICD **Pipeline Creation With Jenkins, Github(Actions), Azure Devops, Some CodePipeline**
-- Containerization & Orchestration **DockerFiles and Images Created and Deployed To Kubernetes(EKS, AKS, Rancher, minikube For Local Testing)**
-- Desktop Application Development Using **Java, Tkinter(python), Flask(ran locally), ReactJS/Python/bash cross(ran locally)**
-- Creating Scalable Cloud Architecture Using **AWS and Terraform, Also experince with Cloudformation and ARM/Bicep Templates**
-- Monitoring **Datadog, Prometheus&Grafana, AWS Cloudwatch**
+- Languages Used - **Python, Bash, Javascript, Go, Ruby, Groovy and More!**
+- CICD - **Pipeline Creation With Jenkins, Github(Actions), Azure Devops, Some CodePipeline**
+- Containerization & Orchestration - **DockerFiles and Images Created and Deployed To Kubernetes(EKS, AKS, Rancher, minikube For Local Testing)**
+- Desktop Application Development Using - **Java, Tkinter(python), Flask(ran locally), ReactJS/Python/bash cross(ran locally)**
+- Creating Scalable Cloud Architecture Using - **AWS and Terraform, Also experince with Cloudformation and ARM/Bicep Templates**
+- Monitoring - **Datadog, Prometheus&Grafana, AWS Cloudwatch**
 
 ## 🧑🏾‍💻 Accomplishments!
 - AWS Certified Solutions Architect Assoc.
