@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-terryyoung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-young/)](https://www.linkedin.com/in/terry-young/) 
 [![Gmail Badge](https://img.shields.io/badge/-terryyoung1192@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terryyoung1192@gmail.com)](mailto:terryyoung1192@gmail.com)
 
-Terry Here 🧑🏾‍💻! I am a Devops Engineer 🚀 and Hopeful future python expert 🧑🏾‍💻 Along with other languages!
+🚀 Hey All! Welcome to my page! Hopefully you see somethings that catch your attention! Dont hesitate to reach out or give me some ideas of more to put in here of things that would be of interest! More projects to come!
+
 ## ⚡ Technologies
 Talk to me about
 - Languages Used - **Python, Bash, Javascript, Go, Ruby, Groovy and More!**
