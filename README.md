@@ -9,12 +9,13 @@
 
 ## ⚡ Technologies
 Talk to me about
+- Kubernetes - **EKS(AWS), AKS(Azure),GKE(Google), Rancher, etc**
 - Languages Used - **Python, Bash, Javascript, Go, Ruby, Groovy and More!**
-- CICD - **Pipeline Creation With Jenkins, Github(Actions), Azure Devops, Some CodePipeline**
-- Containerization & Orchestration - **DockerFiles and Images Created and Deployed To Kubernetes(EKS, AKS, Rancher, minikube For Local Testing)**
-- Desktop Application Development Using - **Java, Tkinter(python), Flask(ran locally), ReactJS/Python/bash cross(ran locally)**
-- Creating Scalable Cloud Architecture Using - **AWS and Terraform, Also experince with Cloudformation and ARM/Bicep Templates**
-- Monitoring - **Datadog, Prometheus&Grafana, AWS Cloudwatch**
+- CICD - **Pipeline Creation With Jenkins, Github Actions, Azure Devops, Some CodePipeline, ETC**
+- Containerization & Orchestration - **DockerFiles and Images Created and Deployed To Kubernetes all using Docker, podman, ETC**
+- Creating Scalable Cloud Architecture Using - **Terraform, CloudFormation, ARM Templates within AWS, Azure, Google Cloud.**
+- Monitoring - **Datadog, Prometheus&Grafana, Cloudwatch, Dynatrace**
+- Other Skills - **Web Development, DR planning, observabiltiy, Full Stack work**
 
 ## 🧑🏾‍💻 Accomplishments!
 - AWS Certified Solutions Architect Assoc.
