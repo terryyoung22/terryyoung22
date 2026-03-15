@@ -9,6 +9,7 @@
 
 ## ⚡ Technologies
 Talk to me about
+- AI - **Local, Containerized, Web Hosted Agents. Infrastructure & Release**
 - Kubernetes - **EKS(AWS), AKS(Azure),GKE(Google), Rancher, etc**
 - Languages Used - **Python, Bash, Javascript, Go, Ruby, Groovy and More!**
 - CICD - **Pipeline Creation With Jenkins, Github Actions, Azure Devops, Some CodePipeline, ETC**
@@ -20,6 +21,7 @@ Talk to me about
 ## 🧑🏾‍💻 Accomplishments!
 - AWS Certified Solutions Architect Assoc.
 - Microsoft AZ-900
+- Created an my own AI agent with open source models! Cleaning up and making more stream lined for public from what I have
 - First open sourced project (still improving) [jobDetective](https://github.com/terryyoung22/Job-detective)
 - Wrote a python script that pulls cloudtrail logs using AWS API and places them on your desktop each day (executed by cron)
 - Made personal AWS API site built on flask (Will be open sourced soon)
@@ -31,7 +33,7 @@ Talk to me about
 - 📫 email!: [terryyoung1192@gmail.com](mailto:terryyoung1192@gmail.com)
 - 🎯 Portfolio site: [Portfolio](http://portfolio.typrojects.io/) - Deprecated! This page is my current bio! will be adding more to it!
 - 🔔 Checkout and Follow my github!:- [Github](http://github.typrojects.io/)
-- ⚡ Fun fact: The codes in your website play a major role in appealing to search engines! WEIRD!
+- ⚡ Fun fact: The code in your website play a major role in appealing to search engines! WEIRD!
 
 
 ```⭐️ From [Terry Young](https://github.com/terryyoung22)```
